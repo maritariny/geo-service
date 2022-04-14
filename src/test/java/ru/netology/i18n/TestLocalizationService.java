@@ -10,7 +10,7 @@ import java.util.stream.Stream;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.equalTo;
 
-public class testLocalizationService {
+public class TestLocalizationService {
 
     LocalizationServiceImpl localizationService;
 

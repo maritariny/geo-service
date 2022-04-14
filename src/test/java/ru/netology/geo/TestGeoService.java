@@ -14,7 +14,7 @@ import java.util.stream.Stream;
 import static org.hamcrest.MatcherAssert.assertThat;
 import static org.hamcrest.Matchers.*;
 
-public class testGeoService {
+public class TestGeoService {
 
     GeoService geoService;
 
